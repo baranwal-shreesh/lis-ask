@@ -1,0 +1,22 @@
+# Core Dependencies
+groq==0.4.1
+streamlit==1.28.2
+pandas==2.1.4
+
+# Date/Time Processing
+python-dateutil==2.8.2
+
+# Fuzzy Matching
+fuzzywuzzy==0.18.0
+python-Levenshtein==0.23.0
+
+# Visualization
+plotly==5.18.0
+
+# Environment Variables
+python-dotenv==1.0.0
+
+# Excel Export (ADDED)
+openpyxl==3.1.2
+
+# SQLite is built into Python (no install needed)
